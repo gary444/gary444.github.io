@@ -1,0 +1,66 @@
+body {
+    /*background-color: #001011;*/
+    background-color: #010511;
+
+    /*font-family: Verdana, Geneva, sans-serif;*/
+    font-family: 'Lato', sans-serif;
+}
+
+text.title {
+	fill:#fff;
+	font-size: 200%;
+	text-anchor: start;
+}
+
+text.subtitle {
+	fill:#888;
+	font-size: 80%;
+	text-anchor: start;
+}
+text.legend {
+
+	text-anchor: start;
+	fill:#888;
+	font-size: 80%;
+
+}
+text.scale {
+
+	text-anchor: middle;
+	/*fill:#888;*/
+	/*font-size: 80%;*/
+
+}
+
+text.detail {
+
+	text-anchor: start;
+	fill:#fff;
+	/*font-size: 80%;*/
+
+}
+
+text.detail_label {
+
+	text-anchor: end;
+	fill:#888;
+}
+
+
+text.label {
+	fill:#888;
+	font-size: 100%;
+	/*font-family: Verdana, Geneva, sans-serif;*/
+	text-anchor: middle;
+	baseline-shift: 50;
+}
+
+text.selected {
+	/*fill:#000;*/
+	fill:#010511;
+
+}
+rect.label_bg {
+	fill:#fff;
+	opacity:0.7;
+}
