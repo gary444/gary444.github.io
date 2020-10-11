@@ -4,6 +4,13 @@ body {
 
     /*font-family: Verdana, Geneva, sans-serif;*/
     font-family: 'Lato', sans-serif;
+
+	transform-box: fill-box; 
+}
+
+svg {
+	transform-origin: 0px 0px;
+	transform-box: fill-box; 
 }
 
 text.title {
@@ -79,7 +86,9 @@ text.label {
 	font-size: 1vw;
 	/*font-family: Verdana, Geneva, sans-serif;*/
 	text-anchor: middle;
-	baseline-shift: 50;
+	baseline-shift: -10%;
+	transform-origin: 0px 0px;
+
 }
 
 text.selected {
