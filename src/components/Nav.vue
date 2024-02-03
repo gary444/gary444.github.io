@@ -8,14 +8,20 @@
       class="nav flex-grow flex items-center justify-between px-0 sm:px-5 py-6 sm:py-4 border-b"
     >
       <!-- name -->
-      <a
-        href="#top"
+      <router-link
+        to="/"
         class="text-[22px] sm:text-2xl text-black"
         style="font-family: 'Karla', sans-serif"
       >
         Gareth Rendle
-      </a>
+      </router-link>
       <!-- link buttons -->
+      <div class="flex flex-row space-x-5 text-slate-700 font-medium">
+        <router-link to="/projects" class="hover:text-slate-600"
+          >Projects</router-link
+        >
+        <router-link to="/drum" class="hover:text-slate-600">Drum</router-link>
+      </div>
       <div
         class="text-[20px] sm:text-2xl flex items-center space-x-5 sm:space-x-7 text-gray-400"
       >
