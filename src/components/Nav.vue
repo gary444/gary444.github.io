@@ -20,27 +20,27 @@
         class="text-[20px] sm:text-2xl flex items-center space-x-5 sm:space-x-7 text-gray-400"
       >
         <a
-          href="https://www.linkedin.com/in/hiyeonkim/"
+          href="https://www.linkedin.com/in/gareth-rendle-8b422793/"
           target="_blank"
           class="hover:text-blue-500"
         >
           <fa :icon="['fab', 'linkedin']"></fa>
         </a>
         <a
-          href="https://github.com/ohyeahbravo"
+          href="https://github.com/gary444"
           target="_blank"
           class="hover:text-gray-500"
         >
           <fa :icon="['fab', 'github']"></fa>
         </a>
-        <a
+<!--         <a
           href="CV_HiyeonKim.pdf"
           target="_blank"
           class="text-2xl sm:text-lg font-bold hover:text-indigo-500"
           style="font-family: 'Quicksand', sans-serif"
         >
           CV
-        </a>
+        </a> -->
       </div>
     </div>
     <!-- right white box to hide the box shadow of the main div -->
