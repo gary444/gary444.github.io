@@ -9,7 +9,8 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
+import router from "./router";
 
 library.add(faArrowDown, faLink, faExternalLinkAlt, faLinkedin, faGithub);
 
-createApp(App).component("fa", FontAwesomeIcon).mount("#app");
+createApp(App).component("fa", FontAwesomeIcon).use(router).mount("#app");
