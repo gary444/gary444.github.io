@@ -10,7 +10,7 @@
 
 <script setup lang="ts">
 import ProjectCard from "./PublicationCard.vue";
-import projects from "../publications.yaml";
+import projects from "../coauthor_publications.yaml";
 </script>
 
 <style scoped>

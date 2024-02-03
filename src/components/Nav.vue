@@ -17,7 +17,7 @@
       </router-link>
       <!-- link buttons -->
       <div class="flex flex-row space-x-5 text-slate-700 font-medium">
-        <router-link to="/projects" class="hover:text-slate-600"
+        <router-link to="/" class="hover:text-slate-600"
           >Research Projects</router-link
         >
         <router-link to="/publications" class="hover:text-slate-600">Publications</router-link>

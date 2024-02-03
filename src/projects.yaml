@@ -1,9 +1,10 @@
 ---
-- time: 2023
-  title: Volumetric Avatar Reconstruction with Spatio-Temporally Offset RGBD Cameras
-  link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/volumetric-avatars-from-spatio-temporally-offset-cameras/
-  desc: Increasing the reconstruction rate of volumetric avatars by spatially and temporally offsetting groups of RGBD cameras. 
+- time: 2021-2024
+  title: "APlausE-MR: Audiovisual Plausibility and Experience in Multi-Party Mixed Reality" 
+  link: https://www.spp2236-audictive.de/Abstracts/Abstract-1.html 
+  desc: Investigating factors that affect communication in multi-party MR scenarios. Part of the AUDICTIVE program funded by the Deutsche Forschungsgemeinschaft (DFG).
   image: placeholder.png
   tools:
     - C++
     - Azure Kinect SDK
+    - Unity/C#
