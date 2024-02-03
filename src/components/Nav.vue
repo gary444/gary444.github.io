@@ -13,7 +13,7 @@
         class="text-[22px] sm:text-2xl text-black"
         style="font-family: 'Karla', sans-serif"
       >
-        Hiyeon Kim
+        Gareth Rendle
       </a>
       <!-- link buttons -->
       <div
