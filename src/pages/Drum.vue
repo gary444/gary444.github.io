@@ -1,3 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import DrumList from "../components/DrumList.vue";
+</script>
 
-<template>Drum Page</template>
+<template>
+  <DrumList />
+</template>
