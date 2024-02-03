@@ -18,9 +18,9 @@
       <!-- link buttons -->
       <div class="flex flex-row space-x-5 text-slate-700 font-medium">
         <router-link to="/projects" class="hover:text-slate-600"
-          >Projects</router-link
+          >Research Projects</router-link
         >
-        <router-link to="/drum" class="hover:text-slate-600">Drum</router-link>
+        <router-link to="/publications" class="hover:text-slate-600">Publications</router-link>
       </div>
       <div
         class="text-[20px] sm:text-2xl flex items-center space-x-5 sm:space-x-7 text-gray-400"
