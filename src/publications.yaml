@@ -1,9 +1,8 @@
 ---
 - time: 2023
   title: Volumetric Avatar Reconstruction with Spatio-Temporally Offset RGBD Cameras
+  authors: Gareth Rendle, Adrian Kreskowski, and Bernd Fröhlich
   link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/volumetric-avatars-from-spatio-temporally-offset-cameras/
   desc: Increasing the reconstruction rate of volumetric avatars by spatially and temporally offsetting groups of RGBD cameras. 
   image: placeholder.png
-  tools:
-    - C++
-    - Azure Kinect SDK
+  journal: IEEE VR

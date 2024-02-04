@@ -41,14 +41,14 @@
     </div>
     <div class="flex flex-col sm:ml-7 text-left">
       <h4
-        class="text-lg font-semibold text-gray-400 tracking-wide"
+        class="text-lg font-semibold text-gray-400 tracking-wide uppercase"
         style="font-family: 'Quicksand', sans-serif"
       >
-        {{ project.time }}
+        {{ project.time }} | {{ project.role }}
       </h4>
       <div class="flex flex-row mt-1 items-start">
         <h2
-          class="text-xl font-semibold text-gray-700 tracking-wide"
+          class="text-2xl mt-2 font-semibold text-gray-700 tracking-wide"
           style="font-family: 'Quicksand', sans-serif"
         >
           {{ project.title }}
@@ -72,6 +72,12 @@
         ref="img"
         @click.prevent="imgClicked = true"
       />
+<!--       <p
+        class="text-base font-semibold mt-3 text-gray-400 tracking-wide uppercase"
+        style="font-family: 'Quicksand', sans-serif"
+      >
+        Role: {{ project.role }}
+      </p> -->
       <p
         class="text-lg font-normal mt-3 text-gray-600 leading-snug tracking-normal"
         style="font-family: 'Quicksand', sans-serif"

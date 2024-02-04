@@ -2,14 +2,14 @@
 - time: 2023
   title: Proof-of-Concept Study to Evaluate the Impact of Spatial Audio on Social Presence and User Behavior in Multi-Modal VR Communication
   authors: Felix Immohr, Gareth Rendle, Annika Neidhardt, Steve Göring, Rakesh Rao Ramachandra Rao, Stephanie Arevalo Arboleda, Bernd Froehlich, Alexander Raake
-  journal: IMX 2023
+  journal: ACM IMX
   link: https://dl.acm.org/doi/abs/10.1145/3573381.3596458 
   desc: A proof-of-concept study conducted to analyze the effect position-dynamic binaural synthesis on social presence in VR.
   image: placeholder.png
 - time: 2022
   title: Efficient Direct Isosurface Rasterization of Scalar Volumes
   authors: Adrian Kreskowski, Gareth Rendle, and Bernd Fröhlich
-  journal: Computer Graphics Forum 41 (7), 215-226
+  journal: Computer Graphics Forum
   link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/real-time-rendering/efficient-direct-isosurface-rasterization-of-scalar-volumes/
   desc: A novel and efficient rasterization-based approach for direct rendering of isosurfaces. 
   image: placeholder.png

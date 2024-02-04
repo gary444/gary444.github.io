@@ -10,10 +10,10 @@
           src="../assets/hiyeon.png"
           class="w-[30px] sm:w-[55px] pb-1 mr-2 sm:mr-4 opacity-80 inline"
         /> -->
-        a VR Researcher with a specialisation in real-time avatar reconstruction and collaborative VR applications. 
+        a VR researcher with a specialisation in real-time avatars and collaborative VR applications. 
       </p>
       <p class="leading-normal">
-        <br>Here, you can find a list of research and university projects that I have been involved in.</p>
+        <br>Here, you can find a list of my current and previous research and university projects.</p>
     </div>
   </div>
   <div class="flex flex-col w-full items-center divide-y divide-gray-100">
