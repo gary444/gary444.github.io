@@ -17,7 +17,7 @@
       </router-link>
       <!-- link buttons -->
       <div class="flex flex-row space-x-5 text-slate-700 font-medium">
-        <router-link to="/" class="hover:text-slate-600"
+        <router-link to="/projects" class="hover:text-slate-600"
           >Research Projects</router-link
         >
         <router-link to="/publications" class="hover:text-slate-600">Publications</router-link>
@@ -31,6 +31,13 @@
           class="hover:text-blue-500"
         >
           <fa :icon="['fab', 'linkedin']"></fa>
+        </a>
+        <a
+          href="https://orcid.org/0000-0003-0399-8294"
+          target="_blank"
+          class="hover:text-green-500"
+        >
+          <fa :icon="['fab', 'orcid']"></fa>
         </a>
         <a
           href="https://github.com/gary444"

@@ -7,14 +7,14 @@ import Publications from "./pages/Publications.vue";
 const routes = [
   {
     path: "/",
+    name: "Home",
+    component: Home,
+  },
+  {
+    path: "/projects",
     name: "Projects",
     component: Projects,
   },
-  // {
-  //   path: "/projects",
-  //   name: "Projects",
-  //   component: Projects,
-  // },
   {
     path: "/drum",
     name: "Drum",
