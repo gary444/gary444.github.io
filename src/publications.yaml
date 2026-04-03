@@ -1,8 +1,27 @@
 ---
-- time: 2023
-  title: Volumetric Avatar Reconstruction with Spatio-Temporally Offset RGBD Cameras
-  authors: Gareth Rendle, Adrian Kreskowski, and Bernd Fröhlich
-  link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/volumetric-avatars-from-spatio-temporally-offset-cameras/
-  desc: Increasing the reconstruction rate of volumetric avatars by spatially and temporally offsetting groups of RGBD cameras. 
+- time: 2025
+  title: "Influence of Audiovisual Realism on Communication Behaviour in Group-to-Group Telepresence"
+  authors: "Gareth Rendle, Felix Immohr, Christian Kehling, Anton Lammert, Adrian Kreskowski, Karlheinz Brandenburg, Alexander Raake, and Bernd Froehlich"
+  link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/audiovisual-realism-and-communication-in-telepresence/
+  desc: "A user study investigating how visual avatar realism and spatial audio affect communication behaviour in group-to-group VR telepresence, finding that higher avatar realism improves perceived message understanding and group cohesion."
   image: placeholder.png
   journal: IEEE VR
+  doi: https://doi.org/10.1109/VR59515.2025.00080
+
+- time: 2025
+  title: "On Virtual Pointing Rays and Motion Artefacts"
+  authors: "Gareth Rendle, Adrian Kreskowski, and Bernd Froehlich"
+  link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/on-virtual-pointing-rays-and-motion-artefacts/
+  desc: "Investigating motion artefacts that occur when using virtual pointing rays for object selection in mixed reality, and proposing a motion blur effect that improves perceived visual quality."
+  image: placeholder.png
+  journal: IEEE VR
+  doi: https://doi.org/10.1109/VR59515.2025.00044
+  
+- time: 2023
+  title: "Volumetric Avatar Reconstruction with Spatio-Temporally Offset RGBD Cameras"
+  authors: "Gareth Rendle, Adrian Kreskowski, and Bernd Froehlich"
+  link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/volumetric-avatars-from-spatio-temporally-offset-cameras/
+  desc: "Increasing the reconstruction rate of volumetric avatars by spatially and temporally offsetting groups of RGBD cameras."
+  image: placeholder.png
+  journal: IEEE VR
+  doi: https://doi.org/10.1109/VR55154.2023.00023
