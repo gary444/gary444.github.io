@@ -41,6 +41,13 @@
           <fa :icon="['fab', 'orcid']"></fa>
         </a>
         <a
+          href="https://scholar.google.com/citations?user=_fXp_JwAAAAJ&hl=en"
+          target="_blank"
+          class="hover:text-blue-600"
+        >
+          <fa :icon="['fas', 'graduation-cap']"></fa>
+        </a>
+        <a
           href="https://github.com/gary444"
           target="_blank"
           class="hover:text-gray-500"

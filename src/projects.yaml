@@ -1,4 +1,13 @@
 ---
+
+- time: 2026
+  title: "Gaussian Splatting for Mobile Mixed Reality Devices" 
+  link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/teaching/ws-202526/project-efficient-gaussian-splatting-for-vr-applications/ 
+  desc: Investigating efficient rendering of gaussian models on standalone HMDs.
+  image: placeholder.png
+  role: Co-Supervisor
+  tools:
+    - Unity/C#
 - time: 2021-2024
   title: "APlausE-MR: Audiovisual Plausibility and Experience in Multi-Party Mixed Reality" 
   link: https://www.spp2236-audictive.de/Abstracts/Abstract-1.html 

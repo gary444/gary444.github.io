@@ -16,6 +16,15 @@
   image: placeholder.png
   journal: IEEE VR
   doi: https://doi.org/10.1109/VR59515.2025.00044
+
+- time: 2025
+  title: "ICS-MR: Interactive Conversation Scenarios for Assessment of Mixed Reality Communication"
+  authors: "Felix Immohr, Gareth Rendle, Annika Neidhardt, Anton Lammert, Bernd Froehlich, and Alexander Raake"
+  link: https://dl.acm.org/doi/10.1145/3746027.3758247
+  doi: https://doi.org/10.1145/3746027.3758247
+  desc: "Presentation of interactive conversation scenarios designed to assess communication quality in mixed reality environments."
+  image: placeholder.png
+  journal: ACM MM
   
 - time: 2023
   title: "Volumetric Avatar Reconstruction with Spatio-Temporally Offset RGBD Cameras"
