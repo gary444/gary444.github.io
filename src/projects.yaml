@@ -1,29 +1,30 @@
 ---
 
-- time: 2026
-  title: "Gaussian Splatting for Mobile Mixed Reality Devices" 
-  link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/teaching/ws-202526/project-efficient-gaussian-splatting-for-vr-applications/ 
-  desc: Investigating efficient rendering of gaussian models on standalone HMDs.
-  image: placeholder.png
-  role: Co-Supervisor
-  tools:
-    - Unity/C#
+
 - time: 2021-2024
   title: "APlausE-MR: Audiovisual Plausibility and Experience in Multi-Party Mixed Reality" 
   link: https://www.spp2236-audictive.de/Abstracts/Abstract-1.html 
   desc: Investigating factors that affect communication in multi-party MR scenarios. Part of the AUDICTIVE program funded by the Deutsche Forschungsgemeinschaft (DFG).
-  image: placeholder.png
+  image: audictive.png
   role: PhD Researcher
   tools:
     - C++
     - Azure Kinect SDK
     - Unity/C#
     - Python
+- time: 2026
+  title: "Gaussian Splatting for Mobile Mixed Reality Devices" 
+  link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/teaching/ws-202526/project-efficient-gaussian-splatting-for-vr-applications/
+  desc: Investigating efficient rendering of gaussian models on standalone HMDs.
+  image: GS4MR.jpeg
+  role: Co-Supervisor
+  tools:
+    - Unity/C#
 - time: 2023-2024
   title: "Output-Sensitive Avatars for Everyone" 
   link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/teaching/ws-202324/project-output-sensitive-avatars-for-everyone/
   desc: This semester project addresses the topic of efficiently providing real-time avatar streams to many independent, simultaneous viewers.
-  image: placeholder.png
+  image: output-sensitive-avatars.png
   role: Co-Supervisor
   tools:
     - C++
@@ -32,7 +33,7 @@
   title: "Non-Photorealistic Rendering for Volumetric Avatars" 
   link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/teaching/ws-202223/project-npr-for-volumetric-avatars/
   desc: Addressing feasibility and application of Non-Photorealistic Rendering (NPR) techniques to real-time avatars in VR context.
-  image: placeholder.png
+  image: npr-volumetric-avatars.png
   role: Co-Supervisor
   tools:
     - Unity/C#
@@ -40,7 +41,7 @@
   title: "Temporal TSDF-SVO: Exploiting temporal coherence in 4D dataset visualisation (Masters Thesis)" 
   link: 
   desc: 
-  image: placeholder.png
+  image: temporal-tsdf-svo.png
   role: Student
   tools:
     - C++
@@ -49,7 +50,7 @@
   title: "Output-Sensitive Rendering" 
   link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/teaching/ws-201819/project-output-sensitive-rendering/
   desc: Developed a output-sensitive mesh rendering system for massive 3D meshes
-  image: placeholder.png
+  image: output-sensitive-rendering.png
   role: Student
   tools:
     - C++

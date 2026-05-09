@@ -5,7 +5,7 @@
   link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/on-virtual-pointing-rays-and-motion-artefacts/on-virtual-pointing-rays-and-motion-artefacts/
   doi: https://doi.org/10.1145/3712676.3718344
   desc: "An audiovisual dataset intended to support multimodal extended reality research, covering diverse communication and interaction scenarios."
-  image: placeholder.png
+  image: amis.png
   journal: ACM MMSys
 
 - time: 2024
@@ -14,7 +14,7 @@
   link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/multi-user-virtual-reality/immersive-study-analyzer-collaborative-immersive-analysis-of-recorded-social-vr-studies/
   doi: https://doi.org/10.1109/TVCG.2024.3456146
   desc: "A system for the collaborative immersive analysis of recorded social VR studies, enabling in-depth review of participant actions, speech, and environmental context."
-  image: placeholder.png
+  image: immersive_study_analyzer.png
   journal: IEEE TVCG
 
 - time: 2024
@@ -23,7 +23,7 @@
   link: https://doi.org/10.1109/QoMEX61742.2024.10598292
   doi: https://doi.org/10.1109/QoMEX61742.2024.10598292
   desc: "A subjective evaluation study examining how spatial audio affects user experience and communication quality in three-person virtual reality interactions."
-  image: placeholder.png
+  image: subjective_evaluation.png
   journal: QoMEX
 
 - time: 2024
@@ -32,7 +32,7 @@
   link: https://doi.org/10.1109/VR58804.2024.00104
   doi: https://doi.org/10.1109/VR58804.2024.00104
   desc: "A study evaluating how binaural auralization influences perceived plausibility and communication behaviour in dyadic virtual reality communication tasks."
-  image: placeholder.png
+  image: evaluating_the_effect.png
   journal: IEEE VR
 
 - time: 2023
@@ -41,7 +41,7 @@
   journal: ACM IMX
   link: https://dl.acm.org/doi/abs/10.1145/3573381.3596458 
   desc: A proof-of-concept study conducted to analyze the effect position-dynamic binaural synthesis on social presence in VR.
-  image: placeholder.png
+  image: proof_of_concept.png
   
 - time: 2022
   title: Efficient Direct Isosurface Rasterization of Scalar Volumes
@@ -49,7 +49,7 @@
   journal: Computer Graphics Forum
   link: https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/research/real-time-rendering/efficient-direct-isosurface-rasterization-of-scalar-volumes/
   desc: A novel and efficient rasterization-based approach for direct rendering of isosurfaces. 
-  image: placeholder.png
+  image: efficient_direct_isosurface_rasterization.png
   
 
 - time: 2021
@@ -58,4 +58,4 @@
   journal: ISPRS
   link: https://isprs-archives.copernicus.org/articles/XLIII-B2-2021/419/2021/ 
   desc:  End-to-end acquisition of Free-Viewpoint Videos (FVV) in challenging environments and their exploration in collaborative immersive virtual environments.
-  image: placeholder.png
+  image: towards_free_viewpoint.png
