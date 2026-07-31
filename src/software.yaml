@@ -14,6 +14,14 @@
   tools:
     - Unity/C#
     - Netcode for GameObjects
+- title: "Audiovisual Multimodal Interaction Suite & AMIS Dataset"
+  repo: Telecommunication-Telemedia-Assessment/AMIS
+  link: https://github.com/Telecommunication-Telemedia-Assessment/AMIS
+  desc: Comprehensive multimodal recording dataset including synchronized recordings in the form of Talking-Head Videos, Full-Body Videos, Personalized Animated Avatars, and Volumetric Avatars.
+  tools:
+    - Unity/C#
+    - C++
+    - OpenGL 
 - title: "unity2pybinsim"
   repo: vrsys/unity2pybinsim
   link: https://github.com/vrsys/unity2pybinsim
