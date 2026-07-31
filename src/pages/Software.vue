@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import DrumList from "../components/DrumList.vue";
+import SoftwareList from "../components/SoftwareList.vue";
 </script>
 
 <template>
@@ -7,14 +7,20 @@ import DrumList from "../components/DrumList.vue";
     <div
       class="my-7 sm:my-14 w-full px-5 sm:px-0 sm:w-3/4 text-xl sm:text-3xl font-light tracking-wide leading-snug text-gray-800"
     >
-      <p class="leading-normal">Drum Transcriptions</p>
+      <p class="leading-normal">Software</p>
       <p
         class="mt-4 text-base sm:text-lg text-gray-600 font-normal"
         style="font-family: 'Quicksand', sans-serif"
       >
-        Here you can find some drum transcriptions from some of my favourite drummers and artists. Enjoy!
+        Open-source software from my research, also found on my
+        <a
+          href="https://github.com/gary444"
+          target="_blank"
+          class="underline hover:text-blue-600"
+          >GitHub profile</a
+        >.
       </p>
     </div>
   </div>
-  <DrumList />
+  <SoftwareList />
 </template>

@@ -21,6 +21,7 @@
         <router-link to="/projects" class="hover:text-slate-600"
           >Research Projects</router-link
         >
+        <router-link to="/software" class="hover:text-slate-600">Software</router-link>
         <router-link to="/drum" class="hover:text-slate-600">Drum Transcriptions</router-link>
       </div>
       <div

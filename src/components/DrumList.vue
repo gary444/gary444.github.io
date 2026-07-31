@@ -1,9 +1,10 @@
 <template>
-  <div class="flex flex-col w-full items-center">
+  <div class="flex w-full justify-center">
+    <div class="columns-1 sm:columns-2 gap-x-10 w-full sm:w-9/12">
     <div
       v-for="folder in sortedFolders"
       :key="folder"
-      class="w-full sm:w-7/12 px-7 sm:px-0 py-8 border-b border-gray-100"
+      class="w-full break-inside-avoid px-7 sm:px-0 py-8 border-b border-gray-100"
     >
       <h2
         class="text-2xl font-semibold text-gray-700 tracking-wide mb-4"
@@ -26,6 +27,7 @@
           </a>
         </li>
       </ul>
+    </div>
     </div>
   </div>
 </template>

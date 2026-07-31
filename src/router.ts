@@ -3,6 +3,7 @@ import Projects from "./pages/Projects.vue";
 import Drum from "./pages/Drum.vue";
 import Home from "./pages/Home.vue";
 import Publications from "./pages/Publications.vue";
+import Software from "./pages/Software.vue";
 
 const routes = [
   {
@@ -24,6 +25,11 @@ const routes = [
     path: "/publications",
     name: "Publications",
     component: Publications,
+  },
+  {
+    path: "/software",
+    name: "Software",
+    component: Software,
   },
 ];
 

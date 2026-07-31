@@ -1,0 +1,31 @@
+---
+
+- title: "VRSYS PupilLabs Eye Tracking"
+  repo: vrsys/VRSYS-PupilLabs-EyeTracking
+  link: https://github.com/vrsys/VRSYS-PupilLabs-EyeTracking
+  desc: Scripts and examples for integrating the Pupil Labs Neon eye tracker and the NeonXR Unity package into (networked) Unity applications using vrsys-core. Enables gaze data collection and sharing in multi-user VR/MR experiments.
+  tools:
+    - Unity/C#
+    - Eye Tracking
+- title: "ICS-MR Unity Communication Scenarios"
+  repo: vrsys/ics-mr-unity-communication-scenarios
+  link: https://github.com/vrsys/ics-mr-unity-communication-scenarios
+  desc: Networked Unity implementations of the communication tasks in the open-source ICS-MR dataset, supporting reproducible multi-party communication studies in mixed reality.
+  tools:
+    - Unity/C#
+    - Netcode for GameObjects
+- title: "unity2pybinsim"
+  repo: vrsys/unity2pybinsim
+  link: https://github.com/vrsys/unity2pybinsim
+  desc: Unity Native Audio Spatializer Plugins that allow audio from Unity to be processed by pyBinSim, a python-based binaural simulation tool, enabling high-quality spatial audio rendering in Unity applications.
+  tools:
+    - C++
+    - Unity/C#
+    - Spatial Audio
+- title: "Ray Motion Blur Effect"
+  repo: vrsys/RayMotionBlurEffect
+  link: https://github.com/vrsys/RayMotionBlurEffect
+  desc: A motion blur effect for mitigating motion artefacts caused by fast-moving pointing rays in virtual reality, improving the visual quality of ray-based pointing and selection.
+  tools:
+    - Unity/C#
+    - Visual Perception
